@@ -1,0 +1,35 @@
+.headingparagraph{
+    max-width: 100%; 
+    background-color: #4472c4; 
+    color:white; 
+    min-height: 70px;
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.loginrow{
+    margin: 10px 0;
+}
+
+.centertext{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.homebtn{
+    height: -webkit-fill-available;
+    width: 150px;
+    border-radius: 30px;
+}
